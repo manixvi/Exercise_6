@@ -1,1 +1,2 @@
 print("Goodmorning")
+print ("Goodnight")
